@@ -1,0 +1,19 @@
+#navbar {
+  flex-direction: column;
+  overflow: hidden;
+  height:105px;
+}
+#navbar ul li{
+    display: flex;
+    padding-bottom: 1.5rem;
+    flex-direction: column;
+}
+#navbar h1{
+    padding-top: 0.25rem;
+}
+#navbar ul li a {
+    font-size: 1rem;
+}
+.name123 {
+    border: 0px;
+}
